@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Phaser
+```
+자바스크립트 기반 게임 라이브러리
+- https://phaser.io/tutorials/making-your-first-phaser-3-game/part1
+- https://github.com/phaserjs/template-react
+```
+
 ## Getting Started
 
 First, run the development server:
